@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Go🌱</b>
+  - [Weather Tracking](https://github.com/J1-Shin/weathertracker_go)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Java](https://github.com/Jessica1288/Alogrithm-Practice)
