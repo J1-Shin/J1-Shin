@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Python - Data Engineer 🌱</b>
+  - [Weather ETL](https://github.com/J1-Shin/weather_etl_project)
+
 - <b>Go🌱</b>
   - [Weather Tracking](https://github.com/J1-Shin/weathertracker_go)
 
