@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Personal Business ☕️</b>
+  - [Anthos- Coffee](https://github.com/J1-Shin/anthos-coffee)
+
 - <b>Python - Data Engineer 🌱</b>
   - [Weather ETL](https://github.com/J1-Shin/weather_etl_project)
 
