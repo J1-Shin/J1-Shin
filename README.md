@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+-<b>Analyst portfolio</b>
+  - [healthcare-no_show](https://github.com/J1-Shin/analyst-portfolio)
+
 - <b>Personal Business ☕️</b>
   - [Anthos- Coffee](https://github.com/J1-Shin/anthos-coffee)
 
